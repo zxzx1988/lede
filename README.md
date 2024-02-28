@@ -23,7 +23,7 @@ I18N: [English](README_EN.md) | [简体中文](README.md) | [日本語](README_J
 
 1. **不要用 root 用户进行编译**
 2. 国内用户编译前最好准备好梯子
-3. 默认登陆IP 192.168.1.1 密码 password
+3. 默认登陆IP 192.168.2.1 密码 password
 
 ## 编译命令
 

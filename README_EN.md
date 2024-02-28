@@ -30,11 +30,11 @@ If you have technical questions for discussion or sharing, feel free to join the
 <!--
 1. **不要用 root 用户进行编译**
 2. 国内用户编译前最好准备好梯子
-3. 默认登陆IP 192.168.1.1 密码 password
+3. 默认登陆IP 192.168.2.1 密码 password
 -->
 1. **Never compile OpenWRT as `root`**
 2. If you are living in mainland China, please make sure you could visit the **REAL** Internet.
-3. Default login IP is `192.168.1.1`, password is `password`.
+3. Default login IP is `192.168.2.1`, password is `password`.
 
 ## How to Compile
 <!--
