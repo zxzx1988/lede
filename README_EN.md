@@ -73,7 +73,7 @@ If you have technical questions for discussion or sharing, feel free to join the
 3. 下载源代码，更新 feeds 并选择配置
 
    ```bash
-   git clone https://github.com/coolsnowwolf/lede
+   git clone https://github.com/zxzx1988/lede
    cd lede
    ./scripts/feeds update -a
    ./scripts/feeds install -a
@@ -92,7 +92,7 @@ If you have technical questions for discussion or sharing, feel free to join the
 3. Clone the source code, update `feeds` and configure:
 
    ```bash
-   git clone https://github.com/coolsnowwolf/lede
+   git clone https://github.com/zxzx1988/lede
    cd lede
    ./scripts/feeds update -a
    ./scripts/feeds install -a
@@ -197,7 +197,7 @@ Build dependency: OpenWrt can only be built on a case-sensitive filesystem
 # 以管理员身份打开终端
 PS > fsutil.exe file setCaseSensitiveInfo <your_local_lede_path> enable
 # 将本项目 git clone 到开启了大小写敏感的目录 <your_local_lede_path> 中
-PS > git clone git@github.com:coolsnowwolf/lede.git <your_local_lede_path>
+PS > git clone git@github.com:zxzx1988/lede.git <your_local_lede_path>
 ```
 
 > 对已经 `git clone` 完成的项目目录执行 `fsutil.exe` 命令无法生效，大小写敏感只对新增的文件变更有效。
